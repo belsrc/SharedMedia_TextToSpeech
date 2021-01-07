@@ -15,6 +15,7 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Rune of Power|r", [[Interface\Addon
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Shifting Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\shifting_power.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\alter_time.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\frost_nova.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\frost_nova.mp3]])
 
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Eng : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\agony.mp3]])
@@ -31,6 +32,14 @@ LSM:Register("sound", "|cFF8788EETTS : Eng : Unstable Affliction|r", [[Interface
 -- -----
 --   German / Marlene
 -- -----
+
+-- Mage
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Combustion|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\combustion.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Rune of Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\rune_of_power.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Shifting Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\shifting_power.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\alter_time.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\frost_nova.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\frost_nova.mp3]])
 
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Ger : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\agony.mp3]])
