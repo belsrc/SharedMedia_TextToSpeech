@@ -17,12 +17,17 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Alter Time|r", [[Interface\Addons\S
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\frost_nova.mp3]])
 
 -- Paladin
+LSM:Register("sound", "|cFFF48CBATTS : Eng : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\avenging_crusader.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Avenging Wrath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\avenging_wrath.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Blessing of Protection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\blessing_protection.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Blessing of Sacrifice|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\blessing_sacrifice.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Eng : Blessing of Spellwarding|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\blessing_spellwarding.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Consecration|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\consecration.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Divine Shield|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\divine_shield.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Eng : Execution Sentence|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\execution_sentence.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Eng : Final Reckoning|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\final_reckoning.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Lay on Hands|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\lay_hands.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Eng : Moment of Glory|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\moment_glory.mp3]])
 
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Eng : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\agony.mp3]])
@@ -41,12 +46,17 @@ LSM:Register("sound", "|cFF8788EETTS : Eng : Unstable Affliction|r", [[Interface
 -- -----
 
 -- Paladin
+LSM:Register("sound", "|cFFF48CBATTS : Ger : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\avenging_crusader.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Avenging Wrath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\avenging_wrath.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Blessing of Protection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\blessing_protection.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Blessing of Sacrifice|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\blessing_sacrifice.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Ger : Blessing of Spellwarding|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\blessing_spellwarding.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Consecration|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\consecration.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Divine Shield|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\divine_shield.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Ger : Execution Sentence|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\execution_sentence.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Ger : Final Reckoning|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\final_reckoning.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Lay on Hands|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\lay_hands.mp3]])
+LSM:Register("sound", "|cFFF48CBATTS : Ger : Moment of Glory|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\moment_glory.mp3]])
 
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Ger : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\agony.mp3]])
