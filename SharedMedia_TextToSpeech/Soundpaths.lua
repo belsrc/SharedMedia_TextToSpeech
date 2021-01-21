@@ -30,6 +30,19 @@ LSM:Register("sound", "|cFFF48CBATTS : Eng : Final Reckoning|r", [[Interface\Add
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Lay on Hands|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\lay_hands.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Moment of Glory|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\moment_glory.mp3]])
 
+-- Shaman
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Ascendance|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\ascendance.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Feral Spirit|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\feral_spirit.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Fire Elemental|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\fire_elemental.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Heroism|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\heroism.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Icefury|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\icefury.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Primordial Wave|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\primordial_wave.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Spirit Link Totem|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\spirit_link_totem.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Spiritwalker's Grace|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\spiritwalkers_grace.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Storm Elemental|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\storm_elemental.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Stormkeeper|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\stormkeeper.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Eng : Sundering|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\shaman\sundering.mp3]])
+
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Eng : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\agony.mp3]])
 LSM:Register("sound", "|cFF8788EETTS : Eng : Corruption|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\corruption.mp3]])
@@ -70,6 +83,19 @@ LSM:Register("sound", "|cFFF48CBATTS : Ger : Execution Sentence|r", [[Interface\
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Final Reckoning|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\final_reckoning.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Lay on Hands|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\lay_hands.mp3]])
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Moment of Glory|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\moment_glory.mp3]])
+
+-- Shaman
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Ascendance|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\ascendance.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Feral Spirit|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\feral_spirit.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Fire Elemental|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\fire_elemental.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Heroism|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\heroism.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Icefury|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\icefury.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Primordial Wave|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\primordial_wave.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Spirit Link Totem|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\spirit_link_totem.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Spiritwalker's Grace|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\spiritwalkers_grace.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Storm Elemental|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\storm_elemental.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Stormkeeper|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\stormkeeper.mp3]])
+LSM:Register("sound", "|cFF0070DDTTS : Ger : Sundering|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\shaman\sundering.mp3]])
 
 -- Warlock
 LSM:Register("sound", "|cFF8788EETTS : Ger : Agony|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\agony.mp3]])
