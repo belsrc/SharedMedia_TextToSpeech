@@ -16,6 +16,9 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Shifting Power|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\alter_time.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\frost_nova.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\dragons_breath.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\spellsteal.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\ring_of_frost.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\scorch.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\avenging_crusader.mp3]])
@@ -57,6 +60,9 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Shifting Power|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\alter_time.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\frost_nova.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\dragons_breath.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\spellsteal.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\ring_of_frost.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\scorch.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\avenging_crusader.mp3]])
