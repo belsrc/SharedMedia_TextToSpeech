@@ -2,10 +2,7 @@
 
 Text-to-speech site: https://ttsmp3.com/
 
-
-
 ### Language Selection
 
-**German**: German/Marlene
-
-
+**English**: US English / Salli
+**German**: German / Marlene
