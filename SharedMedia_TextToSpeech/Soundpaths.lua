@@ -19,6 +19,14 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Dragons Breath|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\spellsteal.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\ring_of_frost.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\scorch.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\arcane_orb.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\arcane_power.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\evocation.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\iceblock.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\mana_gem.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\presence_of_mind.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\radiant_spark.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\touch_of_the_magi.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\avenging_crusader.mp3]])
@@ -63,6 +71,14 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Dragons Breath|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\spellsteal.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\ring_of_frost.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\scorch.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\arcane_orb.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\arcane_power.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\evocation.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\iceblock.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\mana_gem.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\presence_of_mind.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\radiant_spark.mp3]])
+LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\touch_of_the_magi.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\avenging_crusader.mp3]])
