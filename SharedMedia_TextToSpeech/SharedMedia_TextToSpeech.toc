@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90200
 ## Title: |cFFFFFF00<WA Soundpack>:|r |cff69ccf0TextToSpeech|r
 
 libs\LibStub\LibStub.lua
