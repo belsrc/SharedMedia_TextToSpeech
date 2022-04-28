@@ -16,17 +16,6 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Shifting Power|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\alter_time.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\frost_nova.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\dragons_breath.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\spellsteal.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\ring_of_frost.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\scorch.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Arcane Orb|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\arcane_orb.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Arcane Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\arcane_power.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Evocation|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\evocation.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Iceblock|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\iceblock.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Mana Gem|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\mana_gem.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : PoM|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\presence_of_mind.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Radiant Spark|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\radiant_spark.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Eng : TotM|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\touch_of_the_magi.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Eng : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\paladin\avenging_crusader.mp3]])
@@ -70,6 +59,19 @@ LSM:Register("sound", "|cFF8788EETTS : Eng : Soul Rot|r", [[Interface\Addons\Sha
 LSM:Register("sound", "|cFF8788EETTS : Eng : Summon Vilefiend|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\summon_vilefiend.mp3]])
 LSM:Register("sound", "|cFF8788EETTS : Eng : Unstable Affliction|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warlock\unstable_affliction.mp3]])
 
+-- Warrior
+LSM:Register("sound", "|cC69B6DTTS : Eng : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\avatar.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\bladestorm.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\colossus_smash.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\deep_wounds_faded.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\die_by_the_sword.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\intervene.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\intimidating_shout.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\piercing_howl.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\rallying_cry.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\shattering_throw.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\spell_reflection.mp3]])
+
 -- -----
 --   German / Marlene
 -- -----
@@ -81,17 +83,6 @@ LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Shifting Power|r", [[Interface\Addo
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Alter Time|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\alter_time.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Frost Nova|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\frost_nova.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Dragons Breath|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\dragons_breath.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Spellsteal|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\spellsteal.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Ring of Frost|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\ring_of_frost.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Scorch|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\scorch.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Arcane Orb|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\arcane_orb.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Arcane Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\arcane_power.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Evocation|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\evocation.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Iceblock|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\iceblock.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Mana Gem|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\mana_gem.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : PoM|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\presence_of_mind.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Radiant Spark|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\radiant_spark.mp3]])
-LSM:Register("sound", "|cFF3FC7EBTTS : Ger : TotM|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\touch_of_the_magi.mp3]])
 
 -- Paladin
 LSM:Register("sound", "|cFFF48CBATTS : Ger : Avenging Crusader|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\paladin\avenging_crusader.mp3]])
@@ -134,3 +125,16 @@ LSM:Register("sound", "|cFF8788EETTS : Ger : Soul Fire|r", [[Interface\Addons\Sh
 LSM:Register("sound", "|cFF8788EETTS : Ger : Soul Rot|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\soul_rot.mp3]])
 LSM:Register("sound", "|cFF8788EETTS : Ger : Summon Vilefiend|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\summon_vilefiend.mp3]])
 LSM:Register("sound", "|cFF8788EETTS : Ger : Unstable Affliction|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\unstable_affliction.mp3]])
+
+-- Warrior
+LSM:Register("sound", "|cC69B6DTTS : Eng : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\avatar.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\bladestorm.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\colossus_smash.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\deep_wounds_faded.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\die_by_the_sword.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intervene.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intimidating_shout.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\piercing_howl.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\rallying_cry.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\shattering_throw.mp3]])
+LSM:Register("sound", "|cC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\spell_reflection.mp3]])
