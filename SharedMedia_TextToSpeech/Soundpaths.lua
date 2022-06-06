@@ -86,11 +86,11 @@ LSM:Register("sound", "|cFFC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Ad
 -- -----
 
 -- Death Knight
-LSM:Register("sound", "|cFFC41E3ATTS : Eng : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\dancing_rune_weapon.mp3]])
-LSM:Register("sound", "|cFFC41E3ATTS : Eng : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\icebound_fortitude.mp3]])
-LSM:Register("sound", "|cFFC41E3ATTS : Eng : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\lichborne.mp3]])
-LSM:Register("sound", "|cFFC41E3ATTS : Eng : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\raise_dead.mp3]])
-LSM:Register("sound", "|cFFC41E3ATTS : Eng : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\vampiric_blood.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\dancing_rune_weapon.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\icebound_fortitude.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\lichborne.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\raise_dead.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\vampiric_blood.mp3]])
 
 -- Mage
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Combustion|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\combustion.mp3]])
@@ -145,14 +145,14 @@ LSM:Register("sound", "|cFF8788EETTS : Ger : Summon Vilefiend|r", [[Interface\Ad
 LSM:Register("sound", "|cFF8788EETTS : Ger : Unstable Affliction|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warlock\unstable_affliction.mp3]])
 
 -- Warrior
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\avatar.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\bladestorm.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\colossus_smash.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\deep_wounds_faded.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\die_by_the_sword.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intervene.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intimidating_shout.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\piercing_howl.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\rallying_cry.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\shattering_throw.mp3]])
-LSM:Register("sound", "|cFFC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\spell_reflection.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\avatar.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\bladestorm.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\colossus_smash.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\deep_wounds_faded.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\die_by_the_sword.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intervene.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intimidating_shout.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\piercing_howl.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\rallying_cry.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\shattering_throw.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\spell_reflection.mp3]])
