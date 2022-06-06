@@ -9,6 +9,13 @@ local LSM = LibStub("LibSharedMedia-3.0")
 --   US English / Salli
 -- -----
 
+-- Death Knight
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\dancing_rune_weapon.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\icebound_fortitude.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\lichborne.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\raise_dead.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\vampiric_blood.mp3]])
+
 -- Mage
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Combustion|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\combustion.mp3]])
 LSM:Register("sound", "|cFF3FC7EBTTS : Eng : Rune of Power|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\mage\rune_of_power.mp3]])
@@ -77,6 +84,13 @@ LSM:Register("sound", "|cC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Addo
 -- -----
 --   German / Marlene
 -- -----
+
+-- Death Knight
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\dancing_rune_weapon.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\icebound_fortitude.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\lichborne.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\raise_dead.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\vampiric_blood.mp3]])
 
 -- Mage
 LSM:Register("sound", "|cFF3FC7EBTTS : Ger : Combustion|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\mage\combustion.mp3]])
