@@ -79,16 +79,22 @@ LSM:Register("sound", "|cFF8788EETTS : Eng : Unstable Affliction|r", [[Interface
 
 -- Warrior
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\avatar.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Bitter Immunity|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\bitter_immunity.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\bladestorm.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\colossus_smash.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\deep_wounds_faded.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Demoralizing Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\demoralizing_shout.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\die_by_the_sword.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\intervene.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\intimidating_shout.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Last Stand|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\last_stand.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\piercing_howl.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\rallying_cry.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Ravager|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\ravager.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\shattering_throw.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Shield Wall|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\shield_wall.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\spell_reflection.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Eng : Thunderous Roar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\warrior\thunderous_roar.mp3]])
 
 -- -----
 --   German / Marlene
@@ -164,13 +170,19 @@ LSM:Register("sound", "|cFF8788EETTS : Ger : Unstable Affliction|r", [[Interface
 
 -- Warrior
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Avatar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\avatar.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Bitter Immunity|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\bitter_immunity.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Bladestorm|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\bladestorm.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Colossus Smash|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\colossus_smash.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Deep Wounds Faded|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\deep_wounds_faded.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Demoralizing Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\demoralizing_shout.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Die by the Sword|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\die_by_the_sword.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Intervene|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intervene.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Intimidating Shout|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\intimidating_shout.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Last Stand|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\last_stand.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Piercing Howl|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\piercing_howl.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Rallying Cry|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\rallying_cry.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Ravager|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\ravager.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Shattering Throw|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\shattering_throw.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Shield Wall|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\shield_wall.mp3]])
 LSM:Register("sound", "|cFFC69B6DTTS : Ger : Spell Reflection|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\spell_reflection.mp3]])
+LSM:Register("sound", "|cFFC69B6DTTS : Ger : Thunderous Roar|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\warrior\thunderous_roar.mp3]])
