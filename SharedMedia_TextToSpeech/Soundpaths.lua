@@ -10,10 +10,19 @@ local LSM = LibStub("LibSharedMedia-3.0")
 -- -----
 
 -- Death Knight
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Abomination Limb|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\abomination_limb.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Apocalypse|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\apocalypse.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Army of the Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\army_of_the_dead.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Eng : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\dancing_rune_weapon.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Dark Transformation|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\dark_transformation.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Empower Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\empower_rune_weapon.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Eng : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\icebound_fortitude.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Eng : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\lichborne.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Eng : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\raise_dead.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Summon Gargoyle|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\summon_gargoyle.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Tombstone|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\tombstone.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Unholy Assault|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\unholy_assault.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Eng : Unholy Blight|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\unholy_blight.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Eng : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\english\death_knight\vampiric_blood.mp3]])
 
 -- Mage
@@ -86,10 +95,19 @@ LSM:Register("sound", "|cFFC69B6DTTS : Eng : Spell Reflection|r", [[Interface\Ad
 -- -----
 
 -- Death Knight
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Abomination Limb|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\abomination_limb.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Apocalypse|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\apocalypse.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Army of the Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\army_of_the_dead.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Ger : Dancing Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\dancing_rune_weapon.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Dark Transformation|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\dark_transformation.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Empower Rune Weapon|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\empower_rune_weapon.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Ger : Icebound Fortitude|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\icebound_fortitude.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Ger : Lichborne|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\lichborne.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Ger : Raise Dead|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\raise_dead.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Summon Gargoyle|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\summon_gargoyle.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Tombstone|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\tombstone.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Unholy Assault|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\unholy_assault.mp3]])
+LSM:Register("sound", "|cFFC41E3ATTS : Ger : Unholy Blight|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\unholy_blight.mp3]])
 LSM:Register("sound", "|cFFC41E3ATTS : Ger : Vampiric Blood|r", [[Interface\Addons\SharedMedia_TextToSpeech\sound\german\death_knight\vampiric_blood.mp3]])
 
 -- Mage
